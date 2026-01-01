@@ -5,7 +5,7 @@
 
 
 <p align="left">
-  <img src="https://res.cloudinary.com/dntarupgf/image/upload/v1753195021/Yellow_and_Blue_Bold_Geometric_Software_Developer_LinkedIn_Banner_t9tfmi.png" alt="Banner" />
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQFjIlhDxXaMgw/profile-displaybackgroundimage-shrink_350_1400/B56Zt6zQuEKgAY-/0/1767291818099?e=1769040000&v=beta&t=cOqAyP15oYtGWDqx_AMC41RcuAwMveebXoUog22QpD4" alt="Banner" />
 </p>
 
 <hr>
