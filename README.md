@@ -5,7 +5,7 @@
 
 
 <p align="left">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQFjIlhDxXaMgw/profile-displaybackgroundimage-shrink_350_1400/B56Zt6zQuEKgAY-/0/1767291818099?e=1769040000&v=beta&t=cOqAyP15oYtGWDqx_AMC41RcuAwMveebXoUog22QpD4" alt="Banner" />
+  <img src="https://shorturl.at/ICMEe" alt="Banner" />
 </p>
 
 <hr>
